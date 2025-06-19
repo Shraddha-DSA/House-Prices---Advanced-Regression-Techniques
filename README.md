@@ -1,5 +1,4 @@
 # House-Prices---Advanced-Regression-Techniques
-# 🏡 House Prices Prediction – Kaggle Regression Challenge
 
 This repository contains my solution to the [Kaggle House Prices: Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/) competition. The goal is to predict the final price of each home in the test set using a range of regression techniques.
 
